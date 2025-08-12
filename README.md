@@ -20,3 +20,11 @@ A Streamlit-based data analysis tool for filtering and visualizing large transac
 ```bash
 git clone https://github.com/<your-username>/AStock-BigTrade-Analysis.git
 cd AStock-BigTrade-Analysis
+
+
+
+
+
+## Usage
+```bash
+streamlit run app.py
